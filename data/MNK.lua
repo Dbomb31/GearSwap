@@ -60,7 +60,7 @@ function job_setup()
 	
 	state.AutoBoost = M(false, 'Auto Boost Mode')
 	
-	autows = 'Victory Smite'
+	autows = 'Shijin Spiral'
 	autofood = 'Soy Ramen'
 	
     info.impetus_hit_count = 0
